@@ -1,0 +1,29 @@
+<!--
+  Author: H.L, LionsHead Analytics Group
+  This notice is copyright management information under 17 U.S.C. 1202.
+  Removal or alteration of this notice is prohibited.
+  This was created by H.L at LionsHead Analytics Group. Visit https://lionsheadanalyticsgroup.com/ OperationalSovereignty, by design
+  Copyright (c) 2026 HL.
+  TODO license grant, not given yet.
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The pure core. No I/O and no project references, SmartTV.App depends on
+       this and never the reverse. -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Authors>H.L, LionsHead Analytics Group</Authors>
+    <Company>LionsHead Analytics Group</Company>
+    <Copyright>Copyright (c) 2026 HL.</Copyright>
+  </PropertyGroup>
+
+  <!-- order matters in F#, a file can only use what compiles above it -->
+  <ItemGroup>
+    <Compile Include="SubnetCore.fs" />
+    <Compile Include="ArpCore.fs" />
+    <Compile Include="MdnsCore.fs" />
+    <Compile Include="DeviceCore.fs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKHb52YSgX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\King-Cobra\\source\\repos\\SmartTV-RootKit\\SmartTV.App\\SmartTV.App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\fsharp.core\\10.1.400\\fsharp.core.10.1.400.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

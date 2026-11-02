@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="SmartTV.Core">
+    <resource name="FSharpSignatureData.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpOptimizationData.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.SmartTV.Core" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.SmartTV.Core" action="remove"></resource>
+  </assembly>
+</linker>

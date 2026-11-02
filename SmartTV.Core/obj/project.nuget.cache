@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QL0ZeTtZFhw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\King-Cobra\\source\\repos\\SmartTV-RootKit\\SmartTV.Core\\SmartTV.Core.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\King-Cobra\\.nuget\\packages\\fsharp.core\\10.1.400\\fsharp.core.10.1.400.nupkg.sha512"
+  ],
+  "logs": []
+}

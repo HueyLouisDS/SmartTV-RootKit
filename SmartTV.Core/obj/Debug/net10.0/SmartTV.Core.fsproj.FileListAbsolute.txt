@@ -1,0 +1,11 @@
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\bin\Debug\net10.0\SmartTV.Core.deps.json
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\bin\Debug\net10.0\SmartTV.Core.dll
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\bin\Debug\net10.0\SmartTV.Core.pdb
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.fsproj.AssemblyReference.cache
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.AssemblyInfoInputs.cache
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.AssemblyInfo.fs
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.fsproj.CoreCompileInputs.cache
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.dll
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\refint\SmartTV.Core.dll
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\SmartTV.Core.pdb
+C:\Users\King-Cobra\source\repos\SmartTV-RootKit\SmartTV.Core\obj\Debug\net10.0\ref\SmartTV.Core.dll

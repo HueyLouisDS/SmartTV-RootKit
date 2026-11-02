@@ -1,0 +1,33 @@
+<!--
+  Author: H.L, LionsHead Analytics Group
+  This notice is copyright management information under 17 U.S.C. 1202.
+  Removal or alteration of this notice is prohibited.
+  This was created by H.L at LionsHead Analytics Group. Visit https://lionsheadanalyticsgroup.com/ OperationalSovereignty, by design
+  Copyright (c) 2026 HL.
+  TODO license grant, not given yet.
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The exe and all I/O. References SmartTV.Core, never the reverse. -->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>SmartTV</AssemblyName>
+    <RootNamespace>SmartTV</RootNamespace>
+    <Authors>H.L, LionsHead Analytics Group</Authors>
+    <Company>LionsHead Analytics Group</Company>
+    <Copyright>Copyright (c) 2026 HL.</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartTV.Core\SmartTV.Core.fsproj" />
+  </ItemGroup>
+
+  <!-- order matters in F#, a file can only use what compiles above it -->
+  <ItemGroup>
+    <Compile Include="NetworkScan.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
